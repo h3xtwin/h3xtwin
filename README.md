@@ -35,5 +35,7 @@
 </p>
 
 <br />
-
+<p align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3xtwin&theme=tokyonight&langs_count=10&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h3xtwin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+</p>

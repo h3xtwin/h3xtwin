@@ -2,7 +2,7 @@
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> =
+    </a>
     <a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="assembly" width="40" height="40"/>
     </a>

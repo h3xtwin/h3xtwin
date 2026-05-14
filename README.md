@@ -8,7 +8,7 @@
     </a>
 </p>
 
-# Languages I'm okay at/ or learning:
+# Languages I'm okay at/learning:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
